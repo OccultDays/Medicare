@@ -785,6 +785,3 @@ curl -X POST http://localhost:3000/api/pacientes \
 - Campos opcionais podem ser `null`
 
 ---
-
-**Versão da API:** 1.0.0  
-**Última atualização:** 18/05/2026

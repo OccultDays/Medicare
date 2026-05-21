@@ -174,4 +174,4 @@ Ao adicionar novas funcionalidades:
 
 ---
 
-**Obrigado por contribuir! 🎉**
+

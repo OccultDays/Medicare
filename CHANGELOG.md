@@ -175,8 +175,3 @@ pnpm seed
 pnpm dev
 ```
 
----
-
-**Versão Atual:** 1.0.0  
-**Data de Lançamento:** 18 de Maio de 2026  
-**Mantido por:** Manus AI

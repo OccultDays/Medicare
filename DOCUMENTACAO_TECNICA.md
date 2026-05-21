@@ -605,6 +605,3 @@ Para dúvidas ou problemas:
 
 ---
 
-**Versão:** 1.0.0  
-**Última atualização:** 18 de Maio de 2026  
-**Mantido por:** Manus AI
