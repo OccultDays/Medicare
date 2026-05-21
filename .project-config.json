@@ -1,0 +1,42 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [
+    "db",
+    "server",
+    "user"
+  ],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "DATABASE_URL": "mysql://3iCJSZapn2k7gai.root:UNkq49WV9H6N8zH4zzEF@gateway06.us-east-1.prod.aws.tidbcloud.com:4000/bfbNSv8KryZZMyQ5DWrpzR?ssl={\"rejectUnauthorized\":true}",
+    "DRIZZLE_DATABASE_URL": "mysql://3iCJSZapn2k7gai.root:UNkq49WV9H6N8zH4zzEF@gateway06.us-east-1.prod.aws.tidbcloud.com:4000/bfbNSv8KryZZMyQ5DWrpzR?ssl={\"rejectUnauthorized\":true}"
+  },
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663621698726/bfbNSv8KryZZMyQ5DWrpzR",
+    "access_key_id": "ASIAZV3A2ECZF6Y2T3WA",
+    "secret_access_key": "L2j+KAMOErLVWo+yKGU4O1rjTO1PqOAquVcP15Y3",
+    "session_token": "IQoJb3JpZ2luX2VjEPf//////////wEaCXVzLWVhc3QtMSJGMEQCIAa+SCAsg2XHQa26j4OxVfSnTkhrjlKztUXa92Ain1hkAiBQ2fUnk1Dj6KMDGoMW7YEyQFymNqvG7xAcqOXMjAfiUSr/Awi///////////8BEAQaDDY2NTM4NjA5ODg2NiIMXTWmN1HQPMeD3W+bKtMD+3X7tLGYq+ZW9hFdGrxtowFxTOSlKn9H9NH4rEAP2wdFUJc7bSHa58Oxb0IXZClp+aFx7IvYPDh0o35PVe/OVr1rJ1fzKPJR9meTRzD4+bz/g4INk3pQr6znsPk3tZwR24JgRrzrN3/mYeNADWEqVNso1R/JuVq5uvz2ixoAe76WHRw4hMJEniLXeWM98zjaIKC/Y0LfgAHJhtLfkTYZwa0Wk3Wk72Xq+Jl3MGBtwjSHmR4EgV8pvgOv+5hfa8Bgo0LxXLiWb/+XprFvFLbRDgRzO8MDxl0+s7XeJgWTGmvIoLPqlwo+SPAEVT2DV7tpyF4FtDyk+LTutC2jqLmgQNG4W8CRcE5xSCiTgdiSoGZwbmgkzPlyY8u9cVpgrlAGQgOeOghma04ATJqZKEazRKeZpg4iMEU8pyl+zD9cmPWxX9TAA/R+uhycFLshCA+/jJVs15Rh1iYSHkALbhmvzq+F1kZlALo/unorhLsUdXetCjtfKQ9ITJLkmtWpqoivVhL5wLD54ufzYh3AgEcVw39l7fIOFihO/YlNktT7xxROC/Enm6Ax3xBgJRoD59OL1KeMJVfGaWLWW2ZE2L3VtPQkbu9tVCrcZiW500sU9B2UVZ0wvL+s0AY6ngG38Pillx4Wmg6BDKweEMciD2SQdpP5pI6bAQlX3LhOJ2NrDQR3cX2Z0YFpG3wNXfB6vK57OmRoxHMMzmRtKkji40+a+01P6qa3neopvqXlVTgVIUckuls60dfJf7Ads1p8JBZ9k01uC3cYI7iqTG2cYAQYc2HyepjSKCgqXAHLLSD2+GJqiJg5gS68v8LfzXqW1XyOblZI8S8xE0AMAg==",
+    "expiration": "2026-05-19T02:18:36.000Z"
+  },
+  "name": "hospital-system",
+  "path": "/home/ubuntu/hospital-system",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "Cqou9sGm3cq9LbJLkCfzPS",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "Y3NtHUXUx4Atv7g8NBfhNM",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "João Rafael",
+    "OWNER_OPEN_ID": "YuyX5ERMRsn8HRhwycrGEE",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "53964522-4e16-46af-a933-bdcfa7181f37",
+    "VITE_APP_ID": "bfbNSv8KryZZMyQ5DWrpzR",
+    "VITE_APP_LOGO": "https://files.manuscdn.com/user_upload_by_module/web_dev_logo/310519663621698726/rdZJFxPepxkEbeOm.png",
+    "VITE_APP_TITLE": "MediCare - Sistema Hospitalar",
+    "VITE_FRONTEND_FORGE_API_KEY": "Rw8rWcTwcJnEmktnqBbdq7",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
