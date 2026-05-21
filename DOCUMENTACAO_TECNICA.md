@@ -1,12 +1,4 @@
 # MediCare — Sistema de Gestão Hospitalar
-## Documentação Técnica Completa
-
-**Versão:** 1.0.0  
-**Data:** 18 de Maio de 2026  
-**Autor:** Manus AI  
-**Status:** Produção
-
----
 
 ## 📋 Sumário Executivo
 
