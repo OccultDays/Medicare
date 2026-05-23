@@ -1,12 +1,11 @@
 # Guia de Uso - API REST MediCare
-
-**Versão:** 1.0.0  
+  
 **Base URL:** `http://localhost:3000/api` (desenvolvimento)  
 **Autenticação:** JWT Bearer Token
 
 ---
 
-## 📋 Índice
+## Índice
 
 1. [Autenticação](#autenticação)
 2. [Pacientes](#pacientes)
@@ -18,7 +17,7 @@
 
 ---
 
-## 🔐 Autenticação
+## Autenticação
 
 ### Login
 
@@ -135,7 +134,7 @@ Content-Type: application/json
 
 ---
 
-## 👥 Pacientes
+## Pacientes
 
 ### Listar Pacientes
 
@@ -303,7 +302,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 👨‍⚕️ Médicos
+## Médicos
 
 ### Listar Médicos
 
@@ -421,7 +420,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 📅 Consultas
+## Consultas
 
 ### Listar Consultas
 
@@ -561,7 +560,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 📋 Prontuários
+## Prontuários
 
 ### Listar Prontuários
 
@@ -725,7 +724,7 @@ Authorization: Bearer <token>
 
 ---
 
-## ⚠️ Tratamento de Erros
+## Tratamento de Erros
 
 ### Erro 400 - Bad Request
 
@@ -781,7 +780,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 🔗 Exemplos cURL
+## Exemplos cURL
 
 ### Login
 
@@ -830,20 +829,3 @@ curl -X POST http://localhost:3000/api/consultas \
     "motivo": "Consulta de rotina"
   }'
 ```
-
----
-
-## 📞 Suporte
-
-Para dúvidas sobre a API:
-
-1. Consulte a documentação técnica: `DOCUMENTACAO_TECNICA.md`
-2. Verifique os exemplos de requisição acima
-3. Teste com ferramentas como Postman ou Insomnia
-4. Verifique os logs do servidor
-
----
-
-**Versão:** 1.0.0  
-**Última atualização:** 18 de Maio de 2026  
-**Mantido por:** Manus AI
