@@ -1,4 +1,4 @@
-# 🏥 MediCare — Sistema de Gestão Hospitalar
+# MediCare — Sistema de Gestão Hospitalar
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-22.13.0-green.svg)](https://nodejs.org/)
@@ -11,9 +11,9 @@ Um **sistema full-stack profissional de gestão hospitalar** desenvolvido com Re
 
 ---
 
-## ✨ Características Principais
+## Características Principais
 
-### 🎨 Frontend
+### Frontend
 
 - ✅ **React 19** com TypeScript para type safety
 - ✅ **Wouter** para roteamento SPA declarativo
@@ -24,7 +24,7 @@ Um **sistema full-stack profissional de gestão hospitalar** desenvolvido com Re
 - ✅ **Hooks customizados** para consumo de API
 - ✅ **AuthContext** para gerenciamento de autenticação
 
-### 🔧 Backend
+### Backend
 
 - ✅ **Express.js** com roteamento RESTful
 - ✅ **Sequelize ORM** para abstração de dados
@@ -35,7 +35,7 @@ Um **sistema full-stack profissional de gestão hospitalar** desenvolvido com Re
 - ✅ **Validação** com Zod schemas
 - ✅ **Tratamento de erros** centralizado
 
-### 📊 Funcionalidades
+### Funcionalidades
 
 - ✅ **Autenticação** com login/logout/refresh
 - ✅ **Gestão de Pacientes** (CRUD completo)
@@ -48,7 +48,7 @@ Um **sistema full-stack profissional de gestão hospitalar** desenvolvido com Re
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Pré-requisitos
 
@@ -92,7 +92,7 @@ Acesse `http://localhost:5173` no navegador.
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 medicare-hospital-system/
@@ -150,7 +150,7 @@ medicare-hospital-system/
 
 ---
 
-## 🔌 API REST Endpoints
+## API REST Endpoints
 
 ### Autenticação
 ```
@@ -202,7 +202,7 @@ Para detalhes completos, consulte [GUIA_API.md](./GUIA_API.md).
 
 ---
 
-## 📊 Modelos de Dados
+## Modelos de Dados
 
 ### User
 ```typescript
@@ -294,7 +294,7 @@ Para detalhes completos, consulte [GUIA_API.md](./GUIA_API.md).
 
 ---
 
-## 🔐 Autenticação e Segurança
+## Autenticação e Segurança
 
 ### Fluxo JWT
 
@@ -317,7 +317,7 @@ Para detalhes completos, consulte [GUIA_API.md](./GUIA_API.md).
 
 ---
 
-## 🧪 Testes
+## Testes
 
 ```bash
 # Executar testes
@@ -332,7 +332,7 @@ pnpm test:watch
 
 ---
 
-## 📱 PWA (Progressive Web App)
+## PWA (Progressive Web App)
 
 O sistema é totalmente funcional como PWA:
 
@@ -349,7 +349,7 @@ O sistema é totalmente funcional como PWA:
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Cores (Dark Mode Premium)
 
@@ -367,7 +367,7 @@ O sistema é totalmente funcional como PWA:
 
 ---
 
-## 📚 Documentação
+## Documentação
 
 | Documento | Descrição |
 |-----------|-----------|
@@ -378,7 +378,7 @@ O sistema é totalmente funcional como PWA:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Build para Produção
 
