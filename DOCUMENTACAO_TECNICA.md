@@ -581,27 +581,4 @@ pnpm build
 
 **Solução:** Verificar `CORS_ORIGIN` no servidor e origem da requisição
 
----
-
-## 📚 Referências
-
-- [React Documentation](https://react.dev)
-- [Express.js Guide](https://expressjs.com)
-- [Sequelize ORM](https://sequelize.org)
-- [PostgreSQL Docs](https://www.postgresql.org/docs)
-- [JWT.io](https://jwt.io)
-- [Tailwind CSS](https://tailwindcss.com)
-
----
-
-## 📞 Suporte
-
-Para dúvidas ou problemas:
-
-1. Verificar documentação em `API_DOCUMENTATION.md`
-2. Consultar logs em `.manus-logs/`
-3. Executar testes: `pnpm test`
-4. Verificar status do servidor: `pnpm dev`
-
----
 

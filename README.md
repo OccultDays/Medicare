@@ -451,36 +451,3 @@ Para dúvidas ou problemas:
 3. Abra uma [Issue](https://github.com/seu-usuario/medicare-hospital-system/issues)
 4. Crie uma [Discussion](https://github.com/seu-usuario/medicare-hospital-system/discussions)
 
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para detalhes.
-
----
-
-## 👥 Autores
-
-- **Desenvolvido por:** Manus AI
-- **Data:** Maio de 2026
-- **Versão:** 1.0.0
-
----
-
-## 🙏 Agradecimentos
-
-- [React](https://react.dev) - UI Framework
-- [Express.js](https://expressjs.com/) - HTTP Server
-- [Sequelize](https://sequelize.org/) - ORM
-- [Tailwind CSS](https://tailwindcss.com/) - Styling
-- [shadcn/ui](https://ui.shadcn.com/) - UI Components
-- [PostgreSQL](https://www.postgresql.org/) - Database
-
----
-
-**⭐ Se este projeto foi útil, considere dar uma estrela!**
-
----
-
-**Última atualização:** 18 de Maio de 2026  
-**Versão:** 1.0.0

@@ -128,25 +128,6 @@ e este projeto adota [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 - Contraste de cores adequado
 - Responsive design
 
-## Roadmap Futuro
-
-### v1.1.0 (Próxima Release)
-- [ ] Integração com SMS para notificações
-- [ ] Exportação de prontuários em PDF
-- [ ] Relatórios avançados com gráficos
-- [ ] Integração com calendário (Google Calendar)
-- [ ] Suporte a múltiplas unidades hospitalares
-
-### v2.0.0 (Longo Prazo)
-- [ ] App mobile nativo (React Native)
-- [ ] Integração com sistemas de pagamento
-- [ ] Telemedicina com videochamada
-- [ ] Integração com laboratórios
-- [ ] Sistema de agendamento automático
-
----
-
-## Notas de Versão
 
 ### v1.0.0 - Release Inicial
 
