@@ -15,36 +15,36 @@ Um **sistema full-stack profissional de gestão hospitalar** desenvolvido com Re
 
 ### Frontend
 
-- ✅ **React 19** com TypeScript para type safety
-- ✅ **Wouter** para roteamento SPA declarativo
-- ✅ **Tailwind CSS 4** com design dark mode premium
-- ✅ **PWA responsivo** com Service Worker e Web App Manifest
-- ✅ **Framer Motion** para animações fluidas
-- ✅ **shadcn/ui** para componentes reutilizáveis
-- ✅ **Hooks customizados** para consumo de API
-- ✅ **AuthContext** para gerenciamento de autenticação
+- **React 19** com TypeScript para type safety
+- **Wouter** para roteamento SPA declarativo
+- **Tailwind CSS 4** com design dark mode premium
+- **PWA responsivo** com Service Worker e Web App Manifest
+- **Framer Motion** para animações fluidas
+- **shadcn/ui** para componentes reutilizáveis
+- **Hooks customizados** para consumo de API
+- **AuthContext** para gerenciamento de autenticação
 
 ### Backend
 
-- ✅ **Express.js** com roteamento RESTful
-- ✅ **Sequelize ORM** para abstração de dados
-- ✅ **PostgreSQL** como banco relacional
-- ✅ **JWT** com access token + refresh token
-- ✅ **Bcrypt** para criptografia de senhas
-- ✅ **CORS** configurado para segurança
-- ✅ **Validação** com Zod schemas
-- ✅ **Tratamento de erros** centralizado
+- **Express.js** com roteamento RESTful
+- **Sequelize ORM** para abstração de dados
+- **PostgreSQL** como banco relacional
+- **JWT** com access token + refresh token
+- **Bcrypt** para criptografia de senhas
+- **CORS** configurado para segurança
+- **Validação** com Zod schemas
+- **Tratamento de erros** centralizado
 
 ### Funcionalidades
 
-- ✅ **Autenticação** com login/logout/refresh
-- ✅ **Gestão de Pacientes** (CRUD completo)
-- ✅ **Gestão de Médicos** (CRUD completo)
-- ✅ **Agendamento de Consultas** (CRUD completo)
-- ✅ **Prontuários Eletrônicos** (CRUD completo)
-- ✅ **Dashboard** com estatísticas em tempo real
-- ✅ **Paginação** em todos os endpoints
-- ✅ **Filtros avançados** por status, especialidade, etc.
+- **Autenticação** com login/logout/refresh
+- **Gestão de Pacientes** (CRUD completo)
+- **Gestão de Médicos** (CRUD completo)
+- **Agendamento de Consultas** (CRUD completo)
+- **Prontuários Eletrônicos** (CRUD completo)
+- **Dashboard** com estatísticas em tempo real
+- **Paginação** em todos os endpoints
+- **Filtros avançados** por status, especialidade, etc.
 
 ---
 
@@ -308,12 +308,12 @@ Para detalhes completos, consulte [GUIA_API.md](./GUIA_API.md).
 
 ### Medidas de Segurança
 
-- ✅ Senhas com bcrypt (salt 10)
-- ✅ CORS configurado
-- ✅ Validação de entrada com Zod
-- ✅ Proteção contra SQL Injection (Sequelize)
-- ✅ Proteção contra XSS (sanitização frontend)
-- ✅ Rate limiting (implementável)
+- Senhas com bcrypt (salt 10)
+- CORS configurado
+- Validação de entrada com Zod
+- Proteção contra SQL Injection (Sequelize)
+- Proteção contra XSS (sanitização frontend)
+- Rate limiting (implementável)
 
 ---
 
@@ -336,11 +336,11 @@ pnpm test:watch
 
 O sistema é totalmente funcional como PWA:
 
-- ✅ Instalação em home screen
-- ✅ Funciona offline com Service Worker
-- ✅ Responsivo mobile-first
-- ✅ Ícones em múltiplas resoluções
-- ✅ Modo dark nativo
+- Instalação em home screen
+- Funciona offline com Service Worker
+- Responsivo mobile-first
+- Ícones em múltiplas resoluções
+- Modo dark nativo
 
 **Para instalar:**
 1. Abrir site no navegador
