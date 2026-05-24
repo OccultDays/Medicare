@@ -1,4 +1,4 @@
-# 🏥 MediCare — Sistema de Gestão Hospitalar
+# MediCare — Sistema de Gestão Hospitalar
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-22.13.0-green.svg)](https://nodejs.org/)
@@ -11,44 +11,44 @@ Um **sistema full-stack profissional de gestão hospitalar** desenvolvido com Re
 
 ---
 
-## ✨ Características Principais
+## Características Principais
 
-### 🎨 Frontend
+### Frontend
 
-- ✅ **React 19** com TypeScript para type safety
-- ✅ **Wouter** para roteamento SPA declarativo
-- ✅ **Tailwind CSS 4** com design dark mode premium
-- ✅ **PWA responsivo** com Service Worker e Web App Manifest
-- ✅ **Framer Motion** para animações fluidas
-- ✅ **shadcn/ui** para componentes reutilizáveis
-- ✅ **Hooks customizados** para consumo de API
-- ✅ **AuthContext** para gerenciamento de autenticação
+- **React 19** com TypeScript para type safety
+- **Wouter** para roteamento SPA declarativo
+- **Tailwind CSS 4** com design dark mode premium
+- **PWA responsivo** com Service Worker e Web App Manifest
+- **Framer Motion** para animações fluidas
+- **shadcn/ui** para componentes reutilizáveis
+- **Hooks customizados** para consumo de API
+- **AuthContext** para gerenciamento de autenticação
 
-### 🔧 Backend
+### Backend
 
-- ✅ **Express.js** com roteamento RESTful
-- ✅ **Sequelize ORM** para abstração de dados
-- ✅ **PostgreSQL** como banco relacional
-- ✅ **JWT** com access token + refresh token
-- ✅ **Bcrypt** para criptografia de senhas
-- ✅ **CORS** configurado para segurança
-- ✅ **Validação** com Zod schemas
-- ✅ **Tratamento de erros** centralizado
+- **Express.js** com roteamento RESTful
+- **Sequelize ORM** para abstração de dados
+- **PostgreSQL** como banco relacional
+- **JWT** com access token + refresh token
+- **Bcrypt** para criptografia de senhas
+- **CORS** configurado para segurança
+- **Validação** com Zod schemas
+- **Tratamento de erros** centralizado
 
-### 📊 Funcionalidades
+### Funcionalidades
 
-- ✅ **Autenticação** com login/logout/refresh
-- ✅ **Gestão de Pacientes** (CRUD completo)
-- ✅ **Gestão de Médicos** (CRUD completo)
-- ✅ **Agendamento de Consultas** (CRUD completo)
-- ✅ **Prontuários Eletrônicos** (CRUD completo)
-- ✅ **Dashboard** com estatísticas em tempo real
-- ✅ **Paginação** em todos os endpoints
-- ✅ **Filtros avançados** por status, especialidade, etc.
+- **Autenticação** com login/logout/refresh
+- **Gestão de Pacientes** (CRUD completo)
+- **Gestão de Médicos** (CRUD completo)
+- **Agendamento de Consultas** (CRUD completo)
+- **Prontuários Eletrônicos** (CRUD completo)
+- **Dashboard** com estatísticas em tempo real
+- **Paginação** em todos os endpoints
+- **Filtros avançados** por status, especialidade, etc.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Pré-requisitos
 
@@ -92,7 +92,7 @@ Acesse `http://localhost:5173` no navegador.
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 medicare-hospital-system/
@@ -150,7 +150,7 @@ medicare-hospital-system/
 
 ---
 
-## 🔌 API REST Endpoints
+## API REST Endpoints
 
 ### Autenticação
 ```
@@ -202,7 +202,7 @@ Para detalhes completos, consulte [GUIA_API.md](./GUIA_API.md).
 
 ---
 
-## 📊 Modelos de Dados
+## Modelos de Dados
 
 ### User
 ```typescript
@@ -294,7 +294,7 @@ Para detalhes completos, consulte [GUIA_API.md](./GUIA_API.md).
 
 ---
 
-## 🔐 Autenticação e Segurança
+## Autenticação e Segurança
 
 ### Fluxo JWT
 
@@ -308,16 +308,16 @@ Para detalhes completos, consulte [GUIA_API.md](./GUIA_API.md).
 
 ### Medidas de Segurança
 
-- ✅ Senhas com bcrypt (salt 10)
-- ✅ CORS configurado
-- ✅ Validação de entrada com Zod
-- ✅ Proteção contra SQL Injection (Sequelize)
-- ✅ Proteção contra XSS (sanitização frontend)
-- ✅ Rate limiting (implementável)
+- Senhas com bcrypt (salt 10)
+- CORS configurado
+- Validação de entrada com Zod
+- Proteção contra SQL Injection (Sequelize)
+- Proteção contra XSS (sanitização frontend)
+- Rate limiting (implementável)
 
 ---
 
-## 🧪 Testes
+## Testes
 
 ```bash
 # Executar testes
@@ -332,15 +332,15 @@ pnpm test:watch
 
 ---
 
-## 📱 PWA (Progressive Web App)
+## PWA (Progressive Web App)
 
 O sistema é totalmente funcional como PWA:
 
-- ✅ Instalação em home screen
-- ✅ Funciona offline com Service Worker
-- ✅ Responsivo mobile-first
-- ✅ Ícones em múltiplas resoluções
-- ✅ Modo dark nativo
+- Instalação em home screen
+- Funciona offline com Service Worker
+- Responsivo mobile-first
+- Ícones em múltiplas resoluções
+- Modo dark nativo
 
 **Para instalar:**
 1. Abrir site no navegador
@@ -349,7 +349,7 @@ O sistema é totalmente funcional como PWA:
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Cores (Dark Mode Premium)
 
@@ -367,7 +367,7 @@ O sistema é totalmente funcional como PWA:
 
 ---
 
-## 📚 Documentação
+## Documentação
 
 | Documento | Descrição |
 |-----------|-----------|
@@ -378,7 +378,7 @@ O sistema é totalmente funcional como PWA:
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Build para Produção
 
@@ -409,45 +409,4 @@ PORT=3000
 # Frontend API
 VITE_API_URL=https://seu-dominio.com/api
 ```
-
-### Plataformas Recomendadas
-
-- **Frontend:** Vercel, Netlify, Railway
-- **Backend:** Railway, Render, Heroku
-- **Database:** Railway, AWS RDS, DigitalOcean
-
----
-
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Por favor:
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
----
-
-## 📋 Roadmap
-
-- [ ] Integração com SMS para notificações
-- [ ] Exportação de prontuários em PDF
-- [ ] Relatórios avançados com gráficos
-- [ ] Integração com calendário (Google Calendar)
-- [ ] Suporte a múltiplas unidades hospitalares
-- [ ] App mobile nativo (React Native)
-- [ ] Integração com sistemas de pagamento
-
----
-
-## 📞 Suporte
-
-Para dúvidas ou problemas:
-
-1. Consulte a documentação em [DOCUMENTACAO_TECNICA.md](./DOCUMENTACAO_TECNICA.md)
-2. Verifique [GUIA_API.md](./GUIA_API.md) para exemplos de API
-3. Abra uma [Issue](https://github.com/seu-usuario/medicare-hospital-system/issues)
-4. Crie uma [Discussion](https://github.com/seu-usuario/medicare-hospital-system/discussions)
 

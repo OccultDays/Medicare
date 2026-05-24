@@ -1,24 +1,24 @@
 # MediCare — Sistema de Gestão Hospitalar
 
-## 📋 Sumário Executivo
+## Sumário Executivo
 
 O **MediCare** é um sistema full-stack de gestão hospitalar desenvolvido com **React 19 + Node.js + Express + Sequelize + PostgreSQL**. O sistema oferece uma interface moderna dark mode com PWA responsivo, autenticação JWT, CRUD completo para pacientes, médicos, consultas e prontuários, com documentação de API REST e testes automatizados.
 
 ### Características Principais
 
-- ✅ **Frontend SPA** com React 19, TypeScript, Tailwind CSS 4
-- ✅ **Backend REST** com Express, Sequelize ORM, PostgreSQL
-- ✅ **Autenticação JWT** com refresh tokens e roles
-- ✅ **PWA Responsivo** com Service Worker e Web App Manifest
-- ✅ **Dark Mode Premium** com design de alta tecnologia
-- ✅ **Hooks Customizados** para consumo de API
-- ✅ **Paginação e Filtros** em todos os endpoints
-- ✅ **Tratamento de Erros** completo com toasts
-- ✅ **TypeScript** em 100% do código
+- **Frontend SPA** com React 19, TypeScript, Tailwind CSS 4
+- **Backend REST** com Express, Sequelize ORM, PostgreSQL
+- **Autenticação JWT** com refresh tokens e roles
+- **PWA Responsivo** com Service Worker e Web App Manifest
+- **Dark Mode Premium** com design de alta tecnologia
+- **Hooks Customizados** para consumo de API
+- **Paginação e Filtros** em todos os endpoints
+- **Tratamento de Erros** completo com toasts
+- **TypeScript** em 100% do código
 
 ---
 
-## 🏗️ Arquitetura do Sistema
+## Arquitetura do Sistema
 
 ### Visão Geral
 
@@ -209,7 +209,7 @@ O **MediCare** é um sistema full-stack de gestão hospitalar desenvolvido com *
 
 ---
 
-## 🔐 Autenticação e Segurança
+## Autenticação e Segurança
 
 ### Fluxo de Autenticação JWT
 
@@ -243,7 +243,7 @@ O **MediCare** é um sistema full-stack de gestão hospitalar desenvolvido com *
 
 ---
 
-## 🔌 API REST Endpoints
+## API REST Endpoints
 
 ### Autenticação
 
@@ -310,7 +310,7 @@ DELETE /api/prontuarios/:id              → Deletar
 
 ---
 
-## 📁 Estrutura de Diretórios
+## Estrutura de Diretórios
 
 ```
 hospital-system/
@@ -368,7 +368,7 @@ hospital-system/
 
 ---
 
-## 🚀 Instruções de Deployment
+## Instruções de Deployment
 
 ### Pré-requisitos
 
@@ -432,7 +432,7 @@ VITE_API_URL=http://localhost:3000/api
 
 ---
 
-## 🧪 Testes
+## Testes
 
 ### Executar Testes
 
@@ -464,16 +464,16 @@ describe('usePacientes', () => {
 
 ---
 
-## 📱 PWA (Progressive Web App)
+## PWA (Progressive Web App)
 
 ### Recursos Implementados
 
-- ✅ **Manifest.json** com metadados da aplicação
-- ✅ **Service Worker** para cache offline
-- ✅ **Ícones** em múltiplas resoluções
-- ✅ **Instalação** em home screen
-- ✅ **Modo offline** com fallback
-- ✅ **Responsivo** mobile-first
+- **Manifest.json** com metadados da aplicação
+- **Service Worker** para cache offline
+- **Ícones** em múltiplas resoluções
+- **Instalação** em home screen
+- **Modo offline** com fallback
+- **Responsivo** mobile-first
 
 ### Instalação do PWA
 
@@ -483,7 +483,7 @@ describe('usePacientes', () => {
 
 ---
 
-## 🎨 Design System
+## Design System
 
 ### Cores (Dark Mode Premium)
 
@@ -511,7 +511,7 @@ Todos os componentes usam **shadcn/ui** com customizações Tailwind:
 
 ---
 
-## 📊 Performance
+## Performance
 
 ### Otimizações Implementadas
 
@@ -533,7 +533,7 @@ Todos os componentes usam **shadcn/ui** com customizações Tailwind:
 
 ---
 
-## 🔄 Fluxo de Desenvolvimento
+## Fluxo de Desenvolvimento
 
 ### 1. Adicionar Nova Feature
 
@@ -567,7 +567,7 @@ pnpm build
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Erro: "Database connection failed"
 

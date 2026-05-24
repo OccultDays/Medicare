@@ -10,7 +10,7 @@ A **MediCare API REST** é uma API completa para gerenciamento de um sistema hos
 
 ---
 
-## 🔐 Autenticação
+## Autenticação
 
 Todos os endpoints (exceto `/auth/login` e `/auth/refresh`) requerem autenticação via JWT.
 
@@ -28,7 +28,7 @@ Content-Type: application/json
 
 ---
 
-## 📋 Endpoints
+## Endpoints
 
 ### 1. AUTENTICAÇÃO
 
@@ -640,7 +640,7 @@ PUT /api/prontuarios/:id
 
 ---
 
-## 🔄 Modelos de Dados
+## Modelos de Dados
 
 ### User
 ```typescript
@@ -731,7 +731,7 @@ PUT /api/prontuarios/:id
 
 ---
 
-## 🔍 Códigos de Erro
+## Códigos de Erro
 
 | Código | Mensagem | Descrição |
 |--------|----------|-----------|
@@ -745,7 +745,7 @@ PUT /api/prontuarios/:id
 
 ---
 
-## 🚀 Exemplos de Uso
+## Exemplos de Uso
 
 ### cURL
 
@@ -776,7 +776,7 @@ curl -X POST http://localhost:3000/api/pacientes \
 
 ---
 
-## 📝 Notas
+## Notas
 
 - Todos os timestamps estão em UTC (ISO 8601)
 - Senhas são armazenadas com hash bcrypt
