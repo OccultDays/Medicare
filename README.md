@@ -1,14 +1,16 @@
 # MediCare — Sistema de Gestão Hospitalar
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-22.13.0-green.svg)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-19.2.1-blue.svg)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue.svg)](https://www.typescriptlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-336791.svg)](https://www.postgresql.org/)
-[![Express](https://img.shields.io/badge/Express-4.21.2-000000.svg)](https://expressjs.com/)
+João Rafael Nogueira Rodrigues -04190289
 
-Um **sistema full-stack profissional de gestão hospitalar** desenvolvido com React 19, Node.js/Express, Sequelize ORM e PostgreSQL. Inclui autenticação JWT, PWA responsivo, dark mode premium e documentação técnica completa.
+Denilzo Kazuo Takeda Da Pureza -04178647
 
+Laércio Augusto Nascimento Pires - 04183394
+
+Marco Vinícius Silva de Souza-04184519
+
+Arthur Soares Pires - 04157611
+
+Leonardo Moraes Nogueira- 04178661
 ---
 
 ## Características Principais
