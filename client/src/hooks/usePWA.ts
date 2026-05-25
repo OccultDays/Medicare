@@ -26,17 +26,17 @@ export function usePWA(): PWAState {
 
   useEffect(() => {
     // Register Service Worker
-    if ("serviceWorker" in navigator) {
-      navigator.serviceWorker
-        .register("/sw.js")
-        .then((registration) => {
-          console.log("[PWA] Service Worker registered:", registration.scope);
-          setSwRegistered(true);
-        })
-        .catch((error) => {
-          console.error("[PWA] Service Worker registration failed:", error);
-        });
-    }
+    //if ("serviceWorker" in navigator) {
+      //navigator.serviceWorker
+        //.register("/sw.js")
+        //.then((registration) => {
+         // console.log("[PWA] Service Worker registered:", registration.scope);
+         // setSwRegistered(true);
+       // })
+       // .catch((error) => {
+         // console.error("[PWA] Service Worker registration failed:", error);
+       // });
+   // }
 
     // Check if already installed
     if (window.matchMedia("(display-mode: standalone)").matches) {
