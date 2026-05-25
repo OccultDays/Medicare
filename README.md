@@ -49,9 +49,6 @@ Leonardo Moraes Nogueira- 04178661
 - **Filtros avançados** por status, especialidade, etc.
 
 ---
-
-## Quick Start
-
 ### Pré-requisitos
 
 - Node.js 22+
